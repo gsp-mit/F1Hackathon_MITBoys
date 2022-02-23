@@ -17,4 +17,4 @@ https://drive.google.com/file/d/1oZyQtU_tiT-uJr1Ac6ryCyQYw-u9SwGC/view?usp=shari
 https://youtu.be/ewehKC8ZQj8
 
 ## Final Hackathon Submission Video:
-https://www.youtube.com/watch?v=8FTxlLOLFoQ
+https://youtu.be/8FTxlLOLFoQ
