@@ -1,5 +1,5 @@
 # F1Hackathon_MITBoys
-Hackmakers F1 hackathon Challenge 3 - 3D modelling
+# Hackmakers F1 hackathon Challenge 3 - 3D modelling
 
 ## Intro
 Metaverse is booming and it is about to create a whole new interaction paradigm. Since Metaverse is relying on 3d assets that usually take a bit of time to model manually, we believe that using data to programmatically create 3d assets will benefit whole industry going forward. Using AI to programmatic create 3d asset is not a new concept and there are many Research & Development papers applying AI for various use cases spanning across animations, shaders, sculpting or converting 2d images to 3d assets.
